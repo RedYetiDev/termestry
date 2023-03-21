@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-    src="logo.svg"
+    src="https://raw.githubusercontent.com/RedYetiDev/termestry/gh-pages/logo.svg"
     width="100"
 />
 
