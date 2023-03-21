@@ -1,5 +1,5 @@
 {
-  "name": "termastry",
+  "name": "termestry",
   "type": "module",
   "version": "0.0.1",
   "description": "A Tapestry for the Terminal",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RedYetiDev/termastry.git"
+    "url": "git+https://github.com/RedYetiDev/termestry.git"
   },
   "keywords": [
     "Tapestry",
@@ -19,7 +19,7 @@
   "author": "RedYetiDev",
   "license": "CC-BY-4.0",
   "bugs": {
-    "url": "https://github.com/RedYetiDev/termastry/issues"
+    "url": "https://github.com/RedYetiDev/termestry/issues"
   },
-  "homepage": "https://github.com/RedYetiDev/termastry#readme"
+  "homepage": "https://termestry.js.org"
 }
