@@ -154,7 +154,7 @@ legs_subpath_2.lineTo(
 myCanvas.draw(); // Draw the canvas
 ```
 
-_For API usage, and more specific examples, refer to the [API](https://termestry.js.org/) (⚠️ Link Broken ⚠️)._
+_For API usage, and more specific examples, refer to the [API](https://github.com/RedYetiDev/termestry/blob/main/API.md)._
 
 ## Project Status
 
